@@ -2,7 +2,7 @@
 
 > **Note:** Technical showcase of selected frontend patterns. Personal content, contact details, and backend endpoints are intentionally omitted.
 
-Live: **[nalvo.hu/whoami](https://nalvo.hu/whoami)**  
+Live: **[nalvo.hu/who_am_i](https://nalvo.hu/who_am_i)**  
 Stack: Vanilla HTML/CSS/JS · No frameworks · No build step
 
 ---
